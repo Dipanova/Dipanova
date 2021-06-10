@@ -20,12 +20,12 @@
   </head>
   <body>
     <div class="container">
-      <h1>hey, tolete</h1>
-      <h2>h2 title</h2>
-      <h3>h3 title</h3>
-      <h4>h4 title</h4>
-      <h5>h5 title</h5>
-      <h6>h6 title</h6>
+      <h1>H1</h1>
+      <h2>h2</h2>
+      <h3>h3</h3>
+      <h4>h4</h4>
+      <h5>h5</h5>
+      <h6>h6</h6>
       <p>this is a paragraph</p>
       <p class="flow-text">this is a flow text</p>
     </div>
